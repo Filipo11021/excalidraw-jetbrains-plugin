@@ -1,4 +1,4 @@
-package org.jetbrains.plugins.template
+package com.github.filipo11021.excalidrawjetbrainsplugin
 
 import com.intellij.DynamicBundle
 import org.jetbrains.annotations.NonNls
